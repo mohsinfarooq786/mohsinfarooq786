@@ -1,8 +1,13 @@
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30" alt="JavaScript"/> 
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="30" alt="Tailwind CSS"/> 
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" height="30" alt="Vite"/> 
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" height="30" alt="Next.js"/> 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" height="30" alt="React"/> 
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="30" alt="Vercel"/> 
-<img src="https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=ant-design&logoColor=white" height="30" alt="Ant Design"/> 
-<img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" height="30" alt="NPM"/>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+
+# 📊 GitHub Stats:
+<!-- Add your GitHub stats images here if you have them -->
+![Stats Placeholder](https://via.placeholder.com/400x200?text=GitHub+Stats+Coming+Soon)
