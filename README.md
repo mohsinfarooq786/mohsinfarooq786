@@ -1,5 +1,5 @@
-<div style="display: flex; flex-wrap: wrap;">
 # 💻 Tech Stack:
+<div style="display: flex; flex-wrap: wrap;">
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40" alt="JavaScript"/> 
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" alt="TailwindCSS"/> 
 <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" height="40" alt="Vite"/> 
