@@ -8,6 +8,3 @@
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 
-# 📊 GitHub Stats:
-<!-- Add your GitHub stats images here if you have them -->
-![Stats Placeholder](https://via.placeholder.com/400x200?text=GitHub+Stats+Coming+Soon)
